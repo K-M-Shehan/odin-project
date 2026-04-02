@@ -2,46 +2,23 @@
 
 > This repository contains all my projects from [The Odin Project](https://www.theodinproject.com/) curriculum. 
 
-Instead of creating separate repositories for each project, I have organized them into subdirectories based on the course sections.
+All projects are done in separate repositories and this repository acts as a catalog/porfolio showcasing all of the projects in the same place.
 
-## 📂 Project Structure
+## Project Structure
 
 ```
-odin-projects/
+odin-project/
 │── README.md
 │── foundations/
 │   ├── project1/
-│   │   ├── index.html
-│   │   ├── style.css
 │   ├── project2/
-│   │   ├── index.html
-│   │   ├── app.js
 │── full-stack/
 │   ├── project1/
 │   ├── project2/
 ```
+Clicking on each project will redirect you to the respective repository.
 
-## 🚀 How to Use
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/odin-projects.git
-   ```
-2. Navigate to a project folder:
-   ```sh
-   cd foundations/project1
-   ```
-3. Open the project in a browser or use Live Server for better development experience.
-
-## 📌 Progress
-
-- ✅ **Foundations** (HTML, CSS, Git basics)
-- 🔄 **Intermediate JavaScript** (In Progress)
-- ⏳ **Full-Stack Development** (Upcoming)
-
-## 🌟 Live Previews
+## Live Previews
 For projects that can be showcased online, I'll be deploying them via **GitHub Pages**. Links will be added here as I complete them.
 
-## 📜 License
-This repository is for educational purposes. Feel free to reference or use the code with attribution.
-
+[Recipe site](https://k-m-shehan.github.io/odin-recipes/)
