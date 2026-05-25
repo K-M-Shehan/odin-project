@@ -22,3 +22,15 @@ Clicking on each project will redirect you to the respective repository.
 For projects that can be showcased online, I'll be deploying them via **GitHub Pages**. Links will be added here as I complete them.
 
 [Recipe site](https://k-m-shehan.github.io/odin-recipes/)
+[Landing page](https://k-m-shehan.github.io/odin-landing-page/)
+
+## Making sub projects
+Add a sub-repo with `git submodule`.
+
+```bash
+git submodule add <repo-link> foundations/<new_dir_name>
+```
+
+Commit the newly added repo from the main repo.
+
+In the instance that you make a change in a submodule, you will have to pull the changes from the module inside the main repo to update the changes (also commit after that).
